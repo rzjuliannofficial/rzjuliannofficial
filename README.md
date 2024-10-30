@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **im studying java eth**
 
-- My Portfolio click here https://rzjuliannofficial.github.io/Portfolio_Julian/
+- My Portfolio click here https://rzjuliannofficial.github.io/Portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
