@@ -3,7 +3,7 @@
 <h3 align="left">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rzjuliannofficial" alt="rzjuliannofficial" /></a> </p>
+<p align="left" padding-top:"20" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rzjuliannofficial" alt="rzjuliannofficial" /></a> </p>
 
 - 🌱 I’m currently learning **Java, and JavaScript**
 
