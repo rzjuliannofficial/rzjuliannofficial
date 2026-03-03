@@ -15,10 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rzjuliannofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 
-### 🏆 Achievements
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=rzjuliannofficial&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
 ---
 
 ### 📫 Connect With Me
@@ -32,4 +28,3 @@
 *Let's build something amazing together!* 🚀
 
 </div>
-"@ | Out-File -Encoding UTF8 "c:\KULIAH\Github_Repo\rzjuliannofficial\README.md"
