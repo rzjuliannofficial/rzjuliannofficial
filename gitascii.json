@@ -16,7 +16,7 @@
         "customTitle": "Surveillance Header",
         "displayName": "Julian",
         "modeTag": "198X MODE",
-        "animationType": "fade-in",
+        "animationType": "none",
         "animationPreviewKey": 13,
         "animationDuration": 2000,
         "secondaryColor": "#c084fc",
