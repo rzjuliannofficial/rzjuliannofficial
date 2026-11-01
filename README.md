@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://github.com/rzjuliannofficial">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rzjuliannofficial&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=rzjuliannofficial&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/rzjuliannofficial">
     <img src="https://streak-stats.demolab.com?user=rzjuliannofficial&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
@@ -74,7 +74,7 @@
     <em>“Code today, better tomorrow.”</em>
   </p>
   <p>
-    🌐 <strong><a href="https://julian-portfolio-v1.vercel.app">Explore Portfolio Studio ↗</a></strong>
+    🌐 <strong><a href="">Explore Portfolio Studio ↗</a></strong>
   </p>
   <p>
     <a href="https://github.com/rzjuliannofficial"><img src="https://img.shields.io/badge/GitHub-rzjuliannofficial-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
