@@ -1,10 +1,11 @@
+
 <div align="center">
   <img src="./assets/banner.png" alt="Julian - Developer / Terminal Purist" width="100%" />
 </div>
 
 <br/>
 
-### <code>&gt; Biodata</code>
+### <code> Biodata</code>
 
 - 👤 **Full Name:** Nabhan Rizqi Julian Saputro (Julian)
 - 📍 **Location:** Malang, East Java, Indonesia 🇮🇩
@@ -14,7 +15,7 @@
 
 <br/>
 
-### <code>&gt; Focus</code>
+### <code> Focus</code>
 
 - 🧠 **Computer Vision &amp; On-Device AI:** Deep learning model optimization (MobileNetV2, OpenCV) and TensorFlow Lite (TFLite) conversion for real-time on-device inference.
 - 🌊 **Offline-First Architectures:** Marine catch analytics, fish morphometrics, and resilient edge-to-cloud data synchronization under zero-connectivity environments.
@@ -22,7 +23,7 @@
 
 <br/>
 
-### <code>&gt; Tech Stack</code>
+### <code> Tech Stack</code>
 
 <div align="center">
   <img src="./assets/tech-stack.svg" width="100%" alt="Tech Stack Marquee" />
@@ -30,7 +31,7 @@
 
 <br/>
 
-### <code>&gt; GitHub Stats &amp; Streak</code>
+### <code> GitHub Stats  Streak</code>
 
 <p align="center">
   <a href="https://github.com/rzjuliannofficial">
@@ -43,19 +44,19 @@
 
 <br/>
 
-### <code>&gt; Contribution Snake</code>
+### <code> Contribution Snake</code>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rzjuliannofficial/rzjuliannofficial/output/github-snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rzjuliannofficial/rzjuliannofficial/output/github-snake-light.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rzjuliannofficial/rzjuliannofficial/output/github-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rzjuliannofficial/rzjuliannofficial/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rzjuliannofficial/rzjuliannofficial/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rzjuliannofficial/rzjuliannofficial/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
 <br/>
 
-### <code>&gt; Commit &amp; Contribution Activity</code>
+### <code> Commit  Contribution Activity</code>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rzjuliannofficial&theme=tokyonight" width="100%" alt="Commit & Contribution Activity Graph" />
